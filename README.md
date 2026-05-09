@@ -1,4 +1,4 @@
-# Tuscan Recipe Manager
+# Recipe Manager
 
 A Flutter recipe manager app with a Tuscan restaurant-inspired visual theme. The app supports adding recipes, editing saved recipes, viewing recipe details, adding recipes to a shopping list, adjusting quantities, and generating a combined ingredient list.
 
